@@ -1,1 +1,1 @@
-# sites-simples
+<!coctype html>
